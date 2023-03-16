@@ -13,8 +13,15 @@
 .bloque {
     width: 10rem;
     height: 10rem;
-    background-color: aqua;
-    box-shadow: 0px 4px 4px black;
+    background-color:rgb(145, 0, 0);
+    box-shadow: 3px 4px 4px white;
+    border-radius: 2rem;
+}
+
+.bloque:hover {
+    cursor: pointer;
+    background-color: darkblue;
+    transition: 0.7s;
 }
 
 .activo {

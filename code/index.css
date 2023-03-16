@@ -21,7 +21,7 @@
 .bloque:hover {
     cursor: pointer;
     background-color: darkblue;
-    transition: 0.7s;
+    transition: 0.2s;
 }
 
 .activo {
